@@ -1,0 +1,541 @@
+Date;Région;Nombre de trains programmés;Nombre de trains ayant circulé;Nombre de trains annulés;Nombre de trains en retard à l'arrivée;Taux de régularité;Commentaires
+2013-01;Alsace;20095;19874;221;897;95.5;Intempéries.
+2013-01;Auvergne;5785;5732;53;431;92.5;Conditions météos défavorables.
+2013-01;Midi Pyrénées;8208;7941;267;903;88.6;
+2013-01;Provence Alpes Côte d'Azur;13956;13219;737;1816;86.3;
+2013-02;Centre;8979;8830;149;629;92.9;
+2013-02;Midi Pyrénées;7657;7455;202;915;87.7;Intempéries.
+2013-03;Auvergne;5099;5045;54;371;92.6;Problèmes sur le matériel roulant.
+2013-03;Bourgogne;7949;7646;303;634;91.7;Le meilleur mois de mars depuis 2007 en terme de ponctualité avec des bons résultats sur la quasi-totalité des axes.
+2013-03;Bretagne;8363;8208;155;924;88.7;Perte de régularité supérieure à 6 points en global région à cause des limitations de vitesse pour travaux entre Rennes et Redon.
+2013-03;Champagne Ardenne;6597;6421;176;378;94.1;Conditions météorologiques dégradées du 12 au 14 mars (neige et froid inhabituels à cette période de l'année).
+2013-03;Haute Normandie;5444;5320;124;326;93.9;Episodes neigeux.
+2013-03;Nord Pas de Calais;18744;17096;1648;1689;90.1;Intempéries les 12 et 13 mars.
+2013-03;Rhône Alpes;29670;29424;246;3644;87.6;Dérangements sur l'infrastructure.
+2013-04;Alsace;18846;18726;120;581;96.9;
+2013-04;Bretagne;8371;8276;95;579;93.0;Régularité encore perturbée par les travaux entre Rennes et Redon (fin le 26 avril)
+2013-04;Centre;9327;9241;86;561;93.9;
+2013-05;Centre;9017;8952;65;418;95.3;
+2013-05;Champagne Ardenne;6463;6442;21;225;96.5;
+2013-05;Limousin;3944;3897;47;171;95.6;
+2013-06;Basse Normandie;3186;3063;123;183;94.0;Plusieurs mouvements sociaux (dont l'un à PSL suite à l'agression d'un ASCT).
+2013-06;Midi Pyrénées;8381;8140;241;640;92.1;Intempéries.
+2013-06;Rhône Alpes;26957;26586;371;3162;88.1;
+2013-07;Alsace;14462;14363;99;483;96.6;
+2013-07;Aquitaine;8883;8618;265;1527;82.3;Importantes causes externes climatiques : fortes chaleurs et orages en fin de mois. 6 accidents de personnes ou routiers.
+2013-07;Basse Normandie;3815;3786;29;259;93.2;Intempéries la semaine 30 ayant entrainés de nombreux obstacles sur la voie (chutes d'arbres) et des difficultés de circulation (correspondances surtout).
+2013-07;Bretagne;7363;7299;64;483;93.4;Impact limitation de vitesse suite à fortes chaleurs et orages (en Bretagne et hors région).
+2013-07;Poitou Charentes;3582;3507;75;418;88.1;Déraillement d'un train de FRET à Saintes le 16 juillet avec obstruction totale de la circulation des trains en direction de Bordeaux, Angoulême et Royan entrainant des perturbations sur l'ensemble de la semaine 29. Intempéries le 27 juillet, violents orages sur toute la région Poitou-Charentes.
+2013-08;Champagne Ardenne;5639;5623;16;288;94.9;Restrictions de vitesse sur certaines lignes suite aux fortes chaleurs et aux travaux sur la voie.
+2013-08;Lorraine;;;;;;Le Président de la Région Lorraine s'est opposé, par courrier du 10 juillet 2013, à ce que SNCF transmette à l'AQST les données relatives aux trains TER lorrains en retard ou annulés, au motif qu'il n'a pas ''de visibilité sur les capacités des régions à poursuivre leurs missions d'autorité organisatrice des transports régionaux''.
+2013-09;Limousin;4004;3788;216;393;89.6;Défaut de géométrie de la voie.
+2013-09;Midi Pyrénées;7613;7448;165;605;91.9;Actes de malveillance, dérangements des IS, intempéries et incident matériel en ligne.
+2013-09;Picardie;11252;11181;71;713;93.6;Limitation de vitesse 40 en place suite à travaux entre Esbly et Trilport, plusieurs avaries sur les BB15000 sur l'axe Paris-Est-Château-Thierry.
+2013-09;Lorraine;;;;;;Le Président de la Région Lorraine s'est opposé, par courrier du 10 juillet 2013, à ce que SNCF transmette à l'AQST les données relatives aux trains TER lorrains en retard ou annulés, au motif qu'il n'a pas ''de visibilité sur les capacités des régions à poursuivre leurs missions d'autorité organisatrice des transports régionaux''.
+2013-10;Aquitaine;8728;8618;110;960;88.9;Actes de malveillance (colis suspect à Bordeaux. incident caténaire), intrusion dans le tunnel de La Réole et limitations de vitesse.
+2013-10;Auvergne;6239;6145;94;715;88.4;Conditions météos et dérangement d'installations de sécurité.
+2013-10;Languedoc Roussillon;4974;4676;298;478;89.8;Intempéries, malveillance et mouvement social.
+2013-10;Poitou Charentes;3527;3416;111;284;91.7;Mouvement social des agents de conduite du site de La Rochelle du 27 octobre au 1er novembre et nombreux événements externes.
+2013-11;Aquitaine;8374;8253;121;1071;87.0;Fort impact externe (intrusions, obstacles, actes de malveillances et accidents de personnes), défaillances du matériels (pannes et indisponibilités) et dérangements d'IS (procédures lourdes).
+2013-11;Centre;8995;8772;223;998;88.6;Travaux, problèmes matériel, patinages-enrayages.
+2014-01;Midi Pyrénées;8989;8796;193;1022;88.4;Intempéries, malveillance et divagation d'animaux (199 circulations). Appropriation par les agents de conduite de nouvelle ligne Toulouse-St Sulpice (185 circulations). Dérangements d'installations (174 circulations). Détresse matériel roulant (114 circulations).
+2014-01;Centre;9332;9283;49;537;94.2;
+2014-01;Languedoc Roussillon;4903;4866;37;386;92.1;Un bon mois de janvier en rupture par rapport aux mauvais résultats du dernier trimestre 2013. Les dérangements d'installation représentent la principale cause des retards.
+2014-02;Rhône Alpes;25636;25284;352;2638;89.6;Événements externes, panne matériel et problèmes d'infrastructure.
+2014-02;Poitou Charentes;3227;3173;54;240;92.4;Un mois marqué par de nombreux dérangements d'installations et d'événements d'origine externe (arbres sur les voies, heurt d'animaux).
+2014-02;Centre;8409;8332;77;517;93.8;
+2014-02;Lorraine;;;;;;Le Président de la Région Lorraine s'est opposé, par courrier du 10 juillet 2013, à ce que SNCF transmette à l'AQST les données relatives aux trains TER lorrains en retard ou annulés, au motif qu'il n'a pas ''de visibilité sur les capacités des régions à poursuivre leurs missions d'autorité organisatrice des transports régionaux''.
+2014-03;Auvergne;5544;5489;55;286;94.8;Conditions météo, dérangements d'installations, événements extérieurs (malveillance, accident de personne)
+2014-03;Bourgogne;7505;7334;171;528;92.8;Un bon mois de mars, certes moins exceptionnel que celui en 2013, qui permet de clore un trimestre remarquable d'homogénéité sur la majorité des axes Bourguignons
+2014-03;Franche Comté;5258;5154;104;306;94.1;
+2014-03;Haute Normandie;5910;5863;47;234;96.0;
+2014-03;Midi Pyrénées;8135;7938;197;699;91.2;Dérangements PN et installations (150 Circ.) 1,88 point. Malveillance et intempéries (129 circ.) 1,61 point. Défaillance Engin moteur (114 Circ.) 1,43 point. Agent de conduite (83 Circ.) 1,04 point.
+2014-04;Aquitaine;8373;8239;134;629;92.4;De nombreux chocs (avec des animaux et des arbres) sur les voies ont endommagés le matériels roulants le rendant indisponibles pendant de longues périodes.
+2014-04;Centre;8955;8893;62;506;94.3;
+2014-04;Pays de la Loire;10173;10083;90;637;93.7;
+2014-05;Nord Pas de Calais;18023;17828;195;1108;93.8;
+2014-05;Alsace;18720;18566;154;633;96.6;
+2014-05;Auvergne;5047;4956;91;333;93.3;Tension sur le parc matériel et dérangements d'installations.
+2014-05;Bretagne;8330;8270;60;350;95.8;0,75 point d'irrégularité suite à travaux entre Rennes et La Mans.
+2014-05;Champagne Ardenne;5927;5876;51;295;95.0;Ralentissements entre Épernay et Chalons suite à des travaux de renouvellement de voie du 5 au 20 mai. Mouvement social national, régional et local le 22 mai.
+2014-05;Franche Comté;5445;5413;32;563;89.6;
+2014-05;Poitou Charentes;3449;3409;40;186;94.5;
+2014-06;Alsace;16152;14943;1209;652;95.6;Mouvement social national.
+2014-06;Champagne Ardenne;4681;4601;80;339;92.6;Ralentissements de vitesse entre Epernay et Chalons suite à des travaux de renouvellement de voie. Du 11 au 24, mouvement social SNCF national avec mise en place d'un service de transport adapté.
+2014-06;Limousin;3446;2853;593;288;89.9;Mouvement social.
+2014-06;Lorraine;;;;;;Le Président de la Région Lorraine s'est opposé, par courrier du 10 juillet 2013, à ce que SNCF transmette à l'AQST les données relatives aux trains TER lorrains en retard ou annulés, au motif qu'il n'a pas ''de visibilité sur les capacités des régions à poursuivre leurs missions d'autorité organisatrice des transports régionaux''.
+2014-07;Picardie;9714;9343;371;807;91.4;
+2014-07;Rhône Alpes;26007;25666;341;3059;88.1;Un redressement s'est amorcé et se confirme en fin de mois de juillet.
+2014-08;Auvergne;5113;5061;52;259;94.9;Dérangements d'installations et événements extérieurs (intempéries, malveillance).
+2014-08;Basse Normandie;3615;3586;29;179;95.0;Beaucoup de retard pour correspondances sur les axes touristiques Lisieux-Trouville et Trouville-Dives.  Vol de câble ayany entrainé un dérangement de signalisation qui a duré plusieurs jours.
+2014-08;Bretagne;7406;7372;34;307;95.8;Un mois d'août traditionnellement bon.
+2014-08;Franche Comté;5463;5426;37;276;94.9;
+2014-08;Haute Normandie;5828;5784;44;259;95.5;
+2014-08;Rhône Alpes;24375;24029;346;1811;92.5;Un bon mois marqué touefois par la fermeture partielle de la ligne Lyon / Bourg en Bresse liée aux intempéries début août.
+2014-09;Alsace;19660;19543;117;500;97.4;
+2014-09;Aquitaine;8817;8671;146;1038;88.0;Des travaux de modernisation en gare de Bordeaux et ses alentours ont réduit la capacité de celle-ci, occasionnant de nombreux retards. Cela est complété par la mise en place de nouveaux matériels roulants.
+2014-09;Auvergne;5168;5061;107;337;93.3;Problèmes matériel, dérangements d'installations et événements extérieurs.
+2014-09;Centre;8935;8855;80;510;94.2;
+2014-09;Haute Normandie;5933;5865;68;256;95.6;
+2014-09;Nord Pas de Calais;19414;19078;336;1513;92.1;
+2014-09;Picardie;10609;10332;277;963;90.7;
+2014-09;Rhône Alpes;28760;28490;270;2870;89.9;Une réalisation de l'offre à l'objectif mais une régularité touchée par des événements externes.
+2014-10;Aquitaine;9227;9045;182;1060;88.3;Des travaux de modernisation en gare de Bordeaux et ses alentours ont réduit la capacité de celle-ci, occasionnant de nombreux retards. Cela est complété par un phénomène d'été indien sur certaine ligne.
+2014-10;Centre;9201;9085;116;736;91.9;Perte de temps pour travaux et évenements externes.
+2014-10;Franche Comté;5900;5841;59;670;88.5;
+2014-11;Aquitaine;8323;8171;152;1032;87.4;Des travaux de modernisation en gare de Bordeaux et son agglomération ont réduit la capacité de celle-ci, occasionnant de nombreux retards.
+2014-11;Auvergne;5527;5403;124;380;93.0;Evénements extérieurs, dérangements d'installations et problèmes de ressources.
+2014-11;Basse Normandie;2964;2942;22;195;93.4;Malgré plusieurs difficultés en début de mois (accidents routiers, personnes suicidaire, patinages…), c'est le meilleur mois de novembre de ces trois dernières années.
+2014-11;Bourgogne;7354;7287;67;956;86.9;Un mois de novembre catastrophique malgré des conditions météorologiques favorables pour la saison. Les causes non directement maitrisables par TER Bourgogne atteignent un niveau record. A l'origine de cette hausse, plusieurs limitations temporaires de vitesse à plusieurs points de la Bourgogne et qui, de Decize-Etang à Villeneuve-Combs en passant par Beaune-Meursault, ont fait des ravages. Le Morvan est également fortement impacté.
+2014-11;Champagne Ardenne;5580;5546;34;272;95.1;
+2014-11;Poitou Charentes;3273;3235;38;274;91.5;
+2014-12;Alsace;18677;18536;141;689;96.3;
+2014-12;Picardie;10807;10673;134;861;91.9;
+2014-12;Rhône Alpes;26575;25583;992;3587;86.0;Evénements externes , mouvements sociaux locaux, défaillances matériel et prises en charge clientèle.
+2015-01;Bretagne;8409;8361;48;494;94.1;
+2015-01;Champagne Ardenne;6137;6085;52;297;95.1;
+2015-01;Haute Normandie;5961;5828;133;324;94.4;
+2015-01;Nord Pas de Calais;19522;19180;342;1559;91.9;
+2015-02;Basse Normandie;3014;2975;39;116;96.1;
+2015-02;Haute Normandie;5483;5399;84;275;94.9;
+2015-02;Poitou Charentes;3242;3193;49;304;90.5;
+2013-01;Aquitaine;8099;8014;85;731;90.9;Intempéries à partir du 20 janvier.
+2013-01;Franche Comté;5826;5744;82;553;90.4;
+2013-01;Haute Normandie;5957;5878;79;488;91.7;Episodes neigeux et difficultés matériels.
+2013-02;Bretagne;7729;7644;85;448;94.1;Quelques journées perturbées par des épisodes neigeux sur le nord Bretagne (provoquant des dérangement d'installations) et limitations temporaires de vitesse non prévues pour travaux entre Rennes et Redon (du 26 mars au 26 avril 2013).
+2013-02;Pays de la Loire;9238;9126;112;503;94.5;
+2013-02;Picardie;10215;10137;78;879;91.3;
+2013-02;Poitou Charentes;3014;2991;23;118;96.1;
+2013-03;Alsace;19138;18970;168;658;96.5;
+2013-03;Centre;9633;9446;187;634;93.3;
+2013-03;Limousin;3989;3855;134;193;95.0;
+2013-03;Poitou Charentes;3433;3418;15;198;94.2;
+2013-03;Lorraine;;;;;;Le Président de la Région Lorraine s'est opposé, par courrier du 10 juillet 2013, à ce que SNCF transmette à l'AQST les données relatives aux trains TER lorrains en retard ou annulés, au motif qu'il n'a pas ''de visibilité sur les capacités des régions à poursuivre leurs missions d'autorité organisatrice des transports régionaux''.
+2013-04;Champagne Ardenne;6219;6152;67;232;96.2;
+2013-04;Poitou Charentes;3306;3285;21;181;94.5;
+2013-05;Haute Normandie;5447;5433;14;215;96.0;
+2013-05;Nord Pas de Calais;18181;17997;184;922;94.9;
+2013-06;Franche Comté;5398;5334;64;446;91.6;
+2013-06;Languedoc Roussillon;5106;4770;336;475;90.0;Intempéries, malveillance et détresse matériel.
+2013-06;Nord Pas de Calais;17776;17483;293;1140;93.5;Grève le 13.
+2013-07;Auvergne;5564;5451;113;590;89.2;Conditions météorologiques (fortes chaleurs, orages. vents violents).
+2013-07;Champagne Ardenne;6059;6000;59;381;93.7;Episodes de fortes chaleurs et de violents orages ayant perturbé la circulation des trains (dérangements d'installations, limitations de vitesse localisées, chutes d'arbres sur les voies et les caténaires).
+2013-07;Midi Pyrénées;9627;9088;539;1029;88.7;Fortes chaleurs.
+2013-07;Pays de la Loire;10018;9840;178;900;90.9;Les fortes chaleurs et les nombreux orages sur la région et hors région représentent plus de 2,5 points de la non ponctualité.
+2013-08;Aquitaine;8740;8651;89;937;89.2;Orages dans le sud Aquitaine (plateforme ferroviaire endommagée), fortes chaleur au nord de Bordeaux et affluences voyageurs.
+2013-08;Auvergne;5580;5518;62;448;91.9;Conditions météos et dérangement d'installations de sécurité.
+2013-08;Bretagne;7479;7449;30;327;95.6;
+2013-08;Franche Comté;4928;4906;22;282;94.3;
+2013-08;Languedoc Roussillon;5238;5173;65;484;90.6;Dérangements d'installations.
+2013-08;Limousin;3919;3837;82;316;91.8;Intempéries et défaut de géomérie de la voie.
+2013-08;Midi Pyrénées;9023;8845;178;673;92.4;
+2013-08;Poitou Charentes;3490;3469;21;237;93.2;Nombreux dérangements d'installation de sécurité ce mois ci.
+2013-08;Provence Alpes Côte d'Azur;13672;13154;518;2238;83.0;
+2013-09;Aquitaine;8154;8086;68;869;89.3;Impact fort des limitations de vitesse pour travaux et réduction de capacité pour le pont Adour. Deux accidents (accident de personne et accident routier) ont également été des vecteurs importants d'irrégularité en fin de mois.
+2013-09;Basse Normandie;3239;3144;95;167;94.7;Mouvement social le 10.
+2013-09;Champagne Ardenne;6391;6207;184;362;94.2;"Mouvement social national interprofessionnel le 10/09 ; mouvement social local les 28 et 29/09"
+2013-10;Alsace;20430;20274;156;1032;94.9;Travaux Vendenheim 2ème phase TGV Est et patinage.
+2013-10;Provence Alpes Côte d'Azur;11011;10306;705;2382;76.9;Mouvement social interprofessionnel.
+2013-11;Alsace;18580;18468;112;811;95.6;Travaux Vendenheim 2ème phase TGV Est et patinage.
+2013-11;Limousin;3863;3363;500;511;84.8;Mouvement social, adhérence dégradée
+2013-11;Poitou Charentes;3164;3133;31;302;90.4;Nombreux dérangements d'installation de sécurité, ainsi que de nombreux événements d'origine externe comme les phénomènes saisonniers de patinage et enrayage, de nombreux accidents de personnes sur la région Poitou-Charentes, ainsi que des collisions sur des passages à niveau ou des obstacles sur les voies.
+2013-11;Provence Alpes Côte d'Azur;13054;12480;574;2205;82.3;Prolongation de la fermeture de la ligne Aspres Livron / interuption de trafic entre Meyragues et Aix en Provence suite à un accident routier (un camion heurte la pile d'un pont ferroviaire)
+2013-11;Rhône Alpes;26800;26182;618;3531;86.5;Intempéries et problèmes d'infrastructure.
+2013-12;Champagne Ardenne;6413;6104;309;417;93.2;Mouvement social national le 12, acte de vandalisme sur la ligne Reims-Chalons (câbles de signalisation brûlés) le 16, accident de personne avec le train 840805 à Reims Maisonblanche le 22, arbres sur les voies suite au passage de la tempête DIRK le 24, mouvement social local à l'ESV CA.
+2013-12;Languedoc Roussillon;4750;4468;282;485;89.1;Mouvement social et accidents de personne le 5.
+2013-12;Rhône Alpes;25268;24811;457;4185;83.1;Événements externes, panne matériel et problèmes d'infrastructure.
+2013-12;Lorraine;;;;;;Le Président de la Région Lorraine s'est opposé, par courrier du 10 juillet 2013, à ce que SNCF transmette à l'AQST les données relatives aux trains TER lorrains en retard ou annulés, au motif qu'il n'a pas ''de visibilité sur les capacités des régions à poursuivre leurs missions d'autorité organisatrice des transports régionaux''.
+2014-01;Rhône Alpes;28044;27625;419;3008;89.1;Événements externes, panne matériel et problèmes d'infrastructure.
+2014-01;Poitou Charentes;3655;3620;35;165;95.4;
+2014-01;Bretagne;8781;8714;67;416;95.2;Régularité impactée en janvier par les travaux entre Rennes et Redon (1 point d'irrégularité).
+2014-01;Bourgogne;8282;8240;42;516;93.7;Un mois de janvier aux résultats homogènes avec 10 axes au vert et 3 en retrait. Un résultat global qui fait référence sur les sept dernières années.
+2014-02;Provence Alpes Côte d'Azur;12677;11676;1001;2143;81.6;Eboulement ligne Nice Breil (voie coupée) et application d'un plan de transport adapté.
+2014-02;Picardie;10652;10575;77;698;93.4;Mise en place d'un plan de transport adapté sur l'axe Beauvais-Le Tréport permettant une amélioration de la régularité, même si quelques retards subsistent.
+2014-02;Nord Pas de Calais;17126;16820;306;1156;93.1;Mouvements sociaux chaque week-end.
+2014-02;Franche Comté;5041;4987;54;265;94.7;
+2014-02;Bourgogne;7129;6980;149;455;93.5;Un mois de février excellent en terme de régularité. Un mouvement social régional vient cependant contrarier la réalisation de l'offre (hors grève : 99,3% de taux de réalisation).
+2014-02;Alsace;17814;17957;129;799;95.6;Ralentissements Vendenheim suite travaux TGV.
+2014-03;Aquitaine;8679;8505;174;772;90.9;Intempéries en début de mois : éboulement de talus entre Bayonne et St Jean Pied de Port depuis le 26. Travaux: gestion difficile du site de Bordeaux.
+2014-03;Basse Normandie;3233;3184;49;136;95.7;Beaucoup de suppressions dues à des absences de personnel (conduite et accompagnement des trains) et au mouvement social Pays de Loire. Ainsi qu'un accident de personne en gare de Mézidon le 24.
+2014-03;Centre;8884;8793;91;578;93.4;
+2014-03;Champagne Ardenne;6186;5977;209;289;95.2;"Mouvement social à l’établissement de Services Voyageurs de Champagne-Ardenne du SA 01 à 02h00 au MA 04 à 08h00 ; ligne Charleville – Givet : à partir du 11. Mise en place de limitations de vitesse pour une durée indéterminée suite à un risque de chute."
+2014-03;Limousin;4088;4062;26;225;94.5;
+2014-03;Rhône Alpes;28473;27697;776;2484;91.0;Mois correct malgré des événements externes importants
+2014-04;Alsace;18322;18188;134;485;97.3;
+2014-04;Bretagne;8114;8061;53;346;95.7;Régularité impacté en avril par les travaux entre Rennes et Redon (2 points d'irrégularité).
+2014-04;Languedoc Roussillon;4518;4488;30;327;92.7;Le meilleur mois depuis ce début d'année à plus de deux points au-dessus de l'objectif.
+2014-04;Midi Pyrénées;8618;8485;133;682;92.0;Malveillance et intempéries (143 circ.) 1,68 point Dérangements PN et installations (133 Circ.) 1,56 point. Défaillance Engin moteur (117 Circ.) 1,37 point. Agent de conduite (104 Circ.) 1,22 point
+2014-04;Provence Alpes Côte d'Azur;13459;12957;502;2413;81.4;La circulation des trains est rétablie entre Grenoble et Gap (éboulement à Clelles Mens) le 21/04/2014.
+2014-04;Rhône Alpes;27596;27022;574;2587;90.4;Les événements externes viennent impacter la régularité régionale
+2014-04;Lorraine;;;;;;Le Président de la Région Lorraine s'est opposé, par courrier du 10 juillet 2013, à ce que SNCF transmette à l'AQST les données relatives aux trains TER lorrains en retard ou annulés, au motif qu'il n'a pas ''de visibilité sur les capacités des régions à poursuivre leurs missions d'autorité organisatrice des transports régionaux''.
+2014-05;Bourgogne;7569;7480;89;565;92.4;Des résultats supérieurs à l’exercice 2013, mais handicapés par une deuxième quinzaine irrégulière, avec notamment sept journées sous les 91%.
+2014-05;Centre;8927;8847;80;580;93.4;
+2014-05;Haute Normandie;5590;5546;44;212;96.2;
+2014-05;Rhône Alpes;27238;26528;710;2621;90.1;Régularité à l'objectif. Elle est impactée par les incidents Infrastructure et externes.
+2014-06;Auvergne;3728;3614;114;319;91.2;Evénements extérieurs (malveillance), dérangements d'installations. Mouvement social.
+2014-07;Aquitaine;8514;8203;311;1286;84.3;L'accident à Denguin le 17 juillet et les restrictions de circulation pour l’enquête et les vérifications des installations ont fortement perturbé la ponctualité des TER dans la région de Pau mais aussi sur le reste de la région Aquitaine.
+2014-07;Bourgogne;7175;7108;67;576;91.9;Bon mois de juillet avec peu d'annulation de train et une régularité marquée par des incidents infrastructure et matériel.
+2014-07;Nord Pas de Calais;18125;17849;276;1461;91.8;
+2014-08;Bourgogne;6738;6671;67;467;93.0;Un mois d'août plutôt homogène en termes de ponctualité et d'annulation de trains sur les axes Bourguignon. Résultats satisfaisants.
+2014-08;Centre;8987;8915;72;520;94.2;
+2014-08;Picardie;8841;8621;220;600;93.0;
+2014-09;Bretagne;7982;7929;53;345;95.6;Un mois de septembre dans la moyenne des quatre dernières années (95,51 %)
+2014-09;Champagne Ardenne;6111;6031;80;296;95.1;
+2014-09;Poitou Charentes;3545;3503;42;245;93.0;
+2014-09;Provence Alpes Côte d'Azur;14036;13441;595;2581;80.8;L’indisponibilité d’une partie du parc (TER 2 N NG) perturbe fortement la production PACA. En effet, un certain nombre de rames doit être acheminées dans un délai très court sur leur centre de maintenance pour vérifier et/ou intervenir sur les organes de roulement.
+2014-10;Bourgogne;8180;8095;85;939;88.4;Malgré des conditions météorologiques favorables, l’impact des travaux (sur Bourgogne Sud, mais également apparition de LTV contraignantes sur Bourgogne Nord), conjugué à un taux de dérangements d’installations élevé et à une forte inflation des conflits avec les autres transporteurs, ont grandement contribué à ce résultat.
+2014-10;Bretagne;8151;8088;63;545;93.3;Un mois d'octobre fortement perturbé par les travaux sur la ligne Rennes-Messac.
+2014-10;Picardie;11027;10843;184;1213;88.8;Mouvement social local sur Paris-Beauvais. Toujours de nombreuses limitations temporaires de vitesse.
+2014-10;Poitou Charentes;3569;3536;33;237;93.3;
+2014-10;Provence Alpes Côte d'Azur;14114;13169;945;2198;83.3;L’Indisponibilité d’une partie du parc, les TER 2 N NG, perturbe fortement la production PACA. En effet, un certain nombre de rames doit être acheminées dans un délai très court sur leur centre de maintenance pour vérifier et/ou intervenir sur les organes de roulement.
+2014-11;Alsace;18308;18163;145;625;96.6;
+2014-11;Haute Normandie;5363;5324;39;346;93.5;
+2014-11;Languedoc Roussillon;4115;3976;139;617;84.5;
+2014-11;Nord Pas de Calais;17889;17467;422;1967;88.7;
+2014-12;Auvergne;5796;5666;130;374;93.4;
+2014-12;Languedoc Roussillon;4246;4044;202;597;85.2;
+2014-12;Lorraine;13329;13066;263;618;95.3;Le Président de la Région Lorraine s'est opposé, par courrier du 10 juillet 2013, à ce que SNCF transmette à l'AQST les données relatives aux trains TER lorrains en retard ou annulés, au motif qu'il n'a pas ''de visibilité sur les capacités des régions à poursuivre leurs missions d'autorité organisatrice des transports régionaux''.
+2015-01;Alsace;19378;19172;206;653;96.6;
+2015-01;Bourgogne;8051;7964;87;566;92.9;Production très homogène, presque tous les axes sont à l’objectif. Le domaine matériel, avec 29 suppressions dont 17 provoquées par un déficit de parc, est en responsabilité de 45% des suppressions enregistrées hors grève. Les  Intercités conventionnés Paris-Nevers ont été victimes de défaillances de production Intercités sur le secteur de Paris
+2015-01;Franche Comté;5627;5550;77;396;92.9;
+2015-01;Limousin;4234;4186;48;313;92.5;
+2013-01;Centre;9882;9687;195;812;91.6;Trois incidents caténaires lourds, dont deux pour cause externe.
+2013-01;Limousin;3817;3770;47;210;94.4;
+2013-01;Pays de la Loire;10407;10195;212;713;93.0;
+2013-01;Rhône Alpes;31438;30779;659;3552;88.5;
+2013-01;Lorraine;;;;;;Le Président de la Région Lorraine s'est opposé, par courrier du 10 juillet 2013, à ce que SNCF transmette à l'AQST les données relatives aux trains TER lorrains en retard ou annulés, au motif qu'il n'a pas ''de visibilité sur les capacités des régions à poursuivre leurs missions d'autorité organisatrice des transports régionaux''.
+2013-02;Auvergne;5229;5166;63;427;91.7;Conditions météos et dérangement d'installations de sécurité.
+2013-02;Basse Normandie;3013;2991;22;185;93.8;Nombreuses difficultés de circulation et plusieurs dérangements d'installations.
+2013-02;Bourgogne;7418;7337;81;630;91.4;Un mois de février en retrait d'un point sur le mois précédent (deux journée noires les 19 et 25) mais conforte un résultat global cumulé jamais réalisé lors des six derniers exercices précédents.
+2013-02;Haute Normandie;5349;5301;48;211;96.0;
+2013-02;Limousin;3449;3406;43;219;93.6;
+2013-02;Lorraine;;;;;;Le Président de la Région Lorraine s'est opposé, par courrier du 10 juillet 2013, à ce que SNCF transmette à l'AQST les données relatives aux trains TER lorrains en retard ou annulés, au motif qu'il n'a pas ''de visibilité sur les capacités des régions à poursuivre leurs missions d'autorité organisatrice des transports régionaux''.
+2013-03;Basse Normandie;3283;2808;475;251;91.1;Très fort épisode neigeux la semaine 11 (interruption des circulations pendant plusieurs jours).
+2013-03;Midi Pyrénées;7946;7802;144;670;91.4;
+2013-03;Pays de la Loire;9837;9484;353;520;94.5;
+2013-04;Aquitaine;8329;8236;93;967;88.3;Cinq accidents de personnes.
+2013-04;Auvergne;5202;5167;35;342;93.4;Dérangements d'installations de sécurité et défaillance technique matériel roulant.
+2013-04;Bourgogne;7492;7403;89;654;91.2;Un mois d'avril très contrasté en terme de ponctualité avec d'importantes variations : 12 journées à 94% de ponctualité ou plus et 7 journées sous les 88%.
+2013-04;Languedoc Roussillon;4776;4518;258;417;90.8;Intempéries et mouvement social.
+2013-04;Pays de la Loire;9758;9549;209;501;94.8;
+2013-04;Rhône Alpes;25660;25326;334;3016;88.1;
+2013-05;Basse Normandie;3178;3009;169;173;94.3;Nombreuses difficultés de circulation (conséquence de la mauvaise régularité IC)
+2013-05;Bretagne;7977;7910;67;323;95.9;
+2013-05;Franche Comté;5776;5742;34;417;92.7;
+2013-05;Picardie;10505;10450;55;623;94.0;
+2013-06;Auvergne;5117;5067;50;414;91.8;Dérangements d'installations de sécurité et défaillance technique matériel roulant.
+2013-06;Bourgogne;7452;6707;745;707;89.5;Mouvements sociaux (national et régional) ayant entrainé d'importantes annulations de trains
+2013-06;Centre;9496;8977;519;650;92.8;Grève nationale.
+2013-06;Champagne Ardenne;6447;6208;239;256;95.9;Mouvement social national le 13/06/2013.
+2013-06;Haute Normandie;5564;5485;79;256;95.3;Mouvement sociaux, recrudescence des causes externes
+2013-06;Limousin;4003;3716;287;237;93.6;
+2013-06;Pays de la Loire;9665;9217;448;574;93.8;73% des annulations sont liées à des mouvements sociaux.
+2013-06;Poitou Charentes;3308;3165;143;230;92.7;Mouvement social le 13/06. Importants travaux avec des limitations de vitesse, ainsi que de nombreux dérangements d'installation
+2013-07;Centre;9512;9243;269;868;90.6;Perturbation suite à l'accident de Brétigny. Fortes chaleurs.
+2013-07;Haute Normandie;6037;5988;49;328;94.5;Orages. Incidents INFRA liés à la chaleur.
+2013-07;Limousin;4032;3961;71;406;89.8;Défaut de géomérie de la voie entre Limoges et Poitiers.
+2013-07;Provence Alpes Côte d'Azur;13918;13276;642;2762;79.2;
+2013-08;Bourgogne;7234;7191;43;448;93.8;Avec 26 journées sur 31 satisfaisantes, c’est le meilleur résultat en période estivale sur les six dernières années.Très bons scores de toute l'étoile Dijonnaise. sur Laroche-Paris.
+2013-08;Pays de la Loire;9754;9663;91;583;94.0;
+2013-08;Rhône Alpes;28320;28038;282;2391;91.5;Bons résultats en régularité et réalisation de l'offre de transport.
+2013-09;Bretagne;8218;8166;52;472;94.2;Les limitations temporaires de vitesse suite à des travaux entre Brest et Rennes impactent de 1,60 point la régularité du mois.
+2013-09;Franche Comté;5416;5301;115;459;91.3;
+2013-09;Haute Normandie;5748;5598;150;217;96.1;Mouvement social.
+2013-09;Languedoc Roussillon;5024;4754;270;422;91.1;Malveillance et mouvement social.
+2013-09;Pays de la Loire;9731;9381;350;651;93.1;73% des annulations sont liées à des mouvements sociaux.
+2013-09;Provence Alpes Côte d'Azur;13024;12465;559;1745;86.0;
+2013-10;Bourgogne;8123;7991;132;916;88.5;"""Mouvements sociaux (national et régional) ayant entrainé des annulations de trains - Ponctualité en retrait dont la cause est principalement liée aux limitations de vitesse imposées par le """"phénomène feuilles mortes"""" sur les rails."
+2013-10;Franche Comté;5843;5806;37;601;89.6;
+2013-10;Haute Normandie;6010;5942;68;370;93.8;Augmentation des causes externes et difficultés matériels.
+2013-10;Pays de la Loire;10176;9893;283;1012;89.8;50% des suppressions sont des conséquences du mouvement social du 9 octobre. 33% de l'irrégularité provient de causes externes (accident entre un TGV et un poids lourd vers Sillé le Guillaume, conditions climatiques, feuilles mortes, actes de malveillance, divagations d'animaux.
+2013-10;Picardie;11373;11277;96;1205;89.3;Travaux sur le Pont du Havre. A partir de mi-octobre, adhérence dégradée avec de nombreux patinages-enrayages et une journée noire le 28 (arbres et branches sur les voies).
+2013-10;Rhône Alpes;29798;29430;368;3531;88.0;Les événements externes perturbent ce mois.
+2013-11;Auvergne;5854;5546;308;721;87.0;Conditions météos et dérangement d'installations de sécurité.
+2013-11;Basse Normandie;3098;2878;220;220;92.4;Plan automnal sur Dreux/Granville, difficultés de circulations (notament dus aux feuilles mortes) et mouvement social du 12 suite agression d'un ASCT la veille.
+2013-11;Languedoc Roussillon;4433;4270;163;576;86.5;Intempéries.
+2013-11;Midi Pyrénées;7365;7131;234;868;87.8;Causes externes, dérangements des IS et limitations de vitesse. Non respect des marches tracées.
+2013-11;Picardie;10818;10705;113;1261;88.2;Adhérence dégradée avec de nombreux patinages-enrayages et deux incidents caténaires sur la région Parisienne. Les causes extérieures et l'infrastructure représentent 55% de l'irrégularité.
+2013-12;Basse Normandie;3273;3050;223;232;92.4;Mouvement social national le 12 et intempéries les 23 et 24.
+2013-12;Haute Normandie;5899;5359;540;420;92.2;Mouvement social et plan automne.
+2013-12;Midi Pyrénées;8281;7949;332;1407;82.3;Non respect des marches tracées, causes externes, dérangement des IS et incidents matériel en ligne.
+2013-12;Nord Pas de Calais;14691;14411;280;1600;88.9;Grève nationale le 12 puis préavis locaux jusqu'à la fin de l'année.
+2013-12;Pays de la Loire;9900;9409;491;947;89.9;68% des annulations sont liées à des mouvements sociaux, 32% des trains en retard est due aux conditions climatiques, actes de malveillance et divagations d'animaux.
+2013-12;Poitou Charentes;3519;3420;99;216;93.7;Mouvement social national le 12/12.
+2014-01;Pays de la Loire;10247;10127;120;717;92.9;20% des trains irréguliers sont dus aux travaux d'amélioration du réseau ferroviaire de la région.
+2014-01;Lorraine;;;;;;Le Président de la Région Lorraine s'est opposé, par courrier du 10 juillet 2013, à ce que SNCF transmette à l'AQST les données relatives aux trains TER lorrains en retard ou annulés, au motif qu'il n'a pas ''de visibilité sur les capacités des régions à poursuivre leurs missions d'autorité organisatrice des transports régionaux''.
+2014-02;Basse Normandie;3029;2989;20;140;95.3;Tempête Ulla en milieu de mois avec des arbres sur les voies.
+2014-02;Auvergne;5202;5152;50;283;94.5;Conditions météo, dérangements d'installations.
+2014-02;Languedoc Roussillon;4102;4081;21;314;92.3;Une météo clémente et peu de causes externes permettent d'obtenir un résultat à deux points au-dessus de l'objectif.
+2014-03;Alsace;19367;19212;155;547;97.2;
+2014-04;Basse Normandie;3155;3138;17;117;96.3;La principale cause de retard reste les correspondances avec des trains Intercités
+2014-04;Bourgogne;7653;7583;70;503;93.4;Un mois d'avril qui se caractérise par une augmentation des incidents. Les résultats restent supérieurs à ceux acquis en 2012 et 2013 à la même période.
+2014-04;Poitou Charentes;3448;3417;31;182;94.7;
+2014-05;Aquitaine;8026;7927;99;614;92.3;Intempéries (orages) principalement sur la Dordogne.
+2014-05;Midi Pyrénées;8431;8270;161;572;93.1;Malveillance et intempéries (155 circulations, dérangements sur passages à niveau et installations (116 circulation.), défaillance d'engin moteur (89 circulations, agent de conduite (50 circulations).
+2014-05;Pays de la Loire;10442;10315;127;519;95.0;
+2014-05;Provence Alpes Côte d'Azur;13947;13546;401;2056;84.8;Le mois est marqué par des mouvements sociaux
+2014-05;Lorraine;;;;;;Le Président de la Région Lorraine s'est opposé, par courrier du 10 juillet 2013, à ce que SNCF transmette à l'AQST les données relatives aux trains TER lorrains en retard ou annulés, au motif qu'il n'a pas ''de visibilité sur les capacités des régions à poursuivre leurs missions d'autorité organisatrice des transports régionaux''.
+2014-06;Languedoc Roussillon;3661;3063;598;358;88.3;Le mouvement social impacte fortement la production de ce mois de juin.
+2014-06;Nord Pas de Calais;;;;;;
+2014-06;Rhône Alpes;20799;18325;2474;2693;85.3;La ponctualité a été fortement impactée par le mouvement social. Des non-saisies en opérationnel durant la grève pénalisent très fortement la statistique du nombre de trains annulés.
+2014-07;Haute Normandie;5994;5888;106;345;94.1;
+2014-07;Languedoc Roussillon;5140;5036;104;564;88.8;
+2014-07;Limousin;4187;4140;47;329;92.1;
+2014-07;Midi Pyrénées;8952;8658;294;878;89.9;Malveillance et intempéries, dérangements sur passages à niveau et installations, agents de conduite et défaillance enfin moteur.
+2014-08;Lorraine;;;;;;Le Président de la Région Lorraine s'est opposé, par courrier du 10 juillet 2013, à ce que SNCF transmette à l'AQST les données relatives aux trains TER lorrains en retard ou annulés, au motif qu'il n'a pas ''de visibilité sur les capacités des régions à poursuivre leurs missions d'autorité organisatrice des transports régionaux''.
+2014-08;Nord Pas de Calais;17612;17422;190;851;95.1;
+2014-09;Basse Normandie;3250;3207;43;165;94.9;Des travaux urgents de traitement de la végétation ont étés organisés sur l'axe Caen-Rennes. Il y a eu beaucoup de suppressions en raison d'une tension en personnel de conduite.
+2014-10;Basse Normandie;3325;3291;34;252;92.3;Ce mois est marqué par de nombreuses difficultés de circulations avec le début des patinages, et de nombreuses correspondances et espacements avec des trains Intercités. De plus nous avons subit beaucoup de difficultés matériel.
+2014-10;Languedoc Roussillon;4492;4283;209;614;85.7;
+2014-10;Limousin;4335;4306;29;274;93.6;
+2014-10;Lorraine;;;;;;Le Président de la Région Lorraine s'est opposé, par courrier du 10 juillet 2013, à ce que SNCF transmette à l'AQST les données relatives aux trains TER lorrains en retard ou annulés, au motif qu'il n'a pas ''de visibilité sur les capacités des régions à poursuivre leurs missions d'autorité organisatrice des transports régionaux''.
+2014-10;Pays de la Loire;11639;11498;141;940;91.8;
+2014-11;Centre;8382;8313;69;709;91.5;Nombreux problèmes d'adhérence sur les lignes.
+2014-11;Lorraine;;;;;;Le Président de la Région Lorraine s'est opposé, par courrier du 10 juillet 2013, à ce que SNCF transmette à l'AQST les données relatives aux trains TER lorrains en retard ou annulés, au motif qu'il n'a pas ''de visibilité sur les capacités des régions à poursuivre leurs missions d'autorité organisatrice des transports régionaux''.
+2014-11;Provence Alpes Côte d'Azur;12950;12179;771;3122;74.4;La production est confrontée à de fortes intempéries.
+2014-11;Rhône Alpes;27300;26846;454;3758;86.0;Mois dégradé avec pour trois principales causes : externe, infrastructure et trains des autres activités SNCF.
+2014-12;Bourgogne;8021;7924;97;661;91.7;L’objectif est presque atteint en décembre. Il s'agit de la meilleure performance enregistrée ces sept dernières années. Tous les axes affichent une progression par rapport au mois de novembre. Dijon – Nevers est encore marqué par les limitations temporaires de vitesse jusqu'au 19 décembre.
+2014-12;Champagne Ardenne;6065;5986;79;331;94.5;Quelques difficultés de production suite à des mouvements sociaux locaux.
+2014-12;Franche Comté;5716;5644;72;452;92.0;
+2015-01;Rhône Alpes;29933;29530;403;3271;88.9;Début d'année compliqué marquée par des évenements externes (intempéries), des pannes matériel, des événement survenus aux autres transporteurs SNCF et à l'Infrastructure.
+2015-02;Alsace;18052;17859;193;637;96.4;
+2013-01;Bretagne;8776;8631;145;554;93.6;Fortes chutes de neige ayant entrainé des perturbations exceptionnelles sur le Nord de la Bretagne et perturbations liées à un éboulement de terre à Morlaix (axe Rennes - Brest).
+2013-01;Champagne Ardenne;6648;6595;53;334;94.9;Conditions météorologiques dégradées du 15 au 21 janvier (froid, neige et verglas).
+2013-01;Nord Pas de Calais;19227;18890;337;2332;87.7;Vol de câble à Lille Sud.
+2013-02;Franche Comté;5241;5174;67;522;89.9;
+2013-02;Nord Pas de Calais;17478;17228;250;1040;94.0;Intempéries mi-février.
+2013-02;Rhône Alpes;28215;27910;305;3771;86.5;Météo difficile et intrusions.
+2013-03;Aquitaine;8167;8081;86;822;89.8;Coup de froid sur l'ensemble de la région lors de la semaine 11.
+2013-03;Languedoc Roussillon;4930;4548;382;567;87.5;Mouvement social et nouvel arrêt de travail spontané suite l'agression d'un agent du service commercial train.
+2013-03;Picardie;10440;10304;136;882;91.4;Fortes chutes de neige ayant entrainé des perturbations exceptionnelles (nombreuses suppressions non reprises dans les trains annulés suite au plan de transport adapté mis en place lors des intempéries du 12 au 17 mars).
+2013-03;Provence Alpes Côte d'Azur;13994;13042;952;2010;84.6;La non fiabilité dans la restitution de travaux amène l'activité à transférer sur route les premiers trains qui suivent l'heure théorique de restitution des travaux.
+2013-04;Haute Normandie;5662;5616;46;245;95.6;
+2013-04;Midi Pyrénées;8481;8378;103;576;93.1;
+2013-05;Alsace;18659;18533;126;444;97.6;
+2013-05;Midi Pyrénées;8569;8454;115;605;92.8;
+2013-05;Poitou Charentes;3292;3276;16;161;95.1;
+2013-05;Rhône Alpes;26805;26527;278;2512;90.5;Bonne performance du système de production malgré les travaux sur l'axe Lyon-Grenoble.
+2013-06;Picardie;10617;10570;47;791;92.5;
+2013-07;Bourgogne;7613;7558;55;688;90.9;Résultats ponctualité alternant le bon et le moins bon, marqués par des aléas dont le caractère est principalement externe (chute d'arbres suite vent violent. rupture câble électrique EDF sur l'axe Nord le 23 juillet.
+2013-07;Nord Pas de Calais;15550;15313;237;1013;93.4;Intempéries, orages.
+2013-07;Picardie;10623;10418;205;831;92.0;Mises en place de limitation de vitesse en raison des fortes chaleurs sur plusieurs axes et plusieurs jours. Intempéries avec de violents orages ayant entrainé de nombreux arbres et branches sur les voies.
+2013-07;Rhône Alpes;29889;29432;457;3518;88.0;
+2013-08;Alsace;15416;15283;133;418;97.3;
+2013-08;Haute Normandie;5872;5824;48;199;96.6;
+2013-08;Picardie;9862;9806;56;501;94.9;
+2013-09;Alsace;18800;18680;120;801;95.7;Travaux Vendenheim 2ème phase TGV Est
+2013-09;Auvergne;5887;5803;84;441;92.4;Défaillance technique du matériel roulant et erreur anomalie défaillance technique.
+2013-09;Poitou Charentes;3385;3273;112;237;92.8;Mouvement social le 10/09. Importants travaux avec des limitations de vitesse (raccordement LGV SEA à Villognon).
+2013-09;Rhône Alpes;28297;27961;336;2953;89.4;Résultats très corrects pour un mois de reprise.
+2013-10;Bretagne;8768;8705;63;766;91.2;Les travaux entre Brest et Landerneau et entre Quimper et Lorient impactent de 2,5 points la régularité de l'activité TER Bretagne, 1 point d'irrégularité cause intempéries/enrayage. L'incident de Sillé Le Guillaume (heurt d'un camion par un TGV) entrainent une irrégularité de 1 point (correspondances TER).
+2013-10;Champagne Ardenne;6453;6227;226;589;90.5;Mouvement social local le 5 et 6, mouvement social national le 9, collision entre un train et une camionnette à un passage à niveau le 19, agression d'un contrôleur dans un train ayant entraîné une forte perturbation des circulations le 19, incident caténaire le 22 causé par un tracteur à un passage à niveau ayant entrainé des restrictions de circulations jusqu'au 25. Deuxième quinzaine du mois : patinages et enrayages des trains suite à la chute des feuilles mortes sur les rails.
+2013-10;Nord Pas de Calais;18038;17815;223;2147;87.9;Tempête Christian le 28 avec des répercussions sur trois jours.
+2013-10;Lorraine;;;;;;Le Président de la Région Lorraine s'est opposé, par courrier du 10 juillet 2013, à ce que SNCF transmette à l'AQST les données relatives aux trains TER lorrains en retard ou annulés, au motif qu'il n'a pas ''de visibilité sur les capacités des régions à poursuivre leurs missions d'autorité organisatrice des transports régionaux''.
+2013-11;Bretagne;8083;8014;69;713;91.1;Les travaux entre Quimper et Lorient impactent de 1,85 points la régularité de ce mois : 2 points d'irrégularité pour cause intempéries/enrayage, 1,2 point pour avarie matériel et 0,9 pour causes externes (obstacles. accident de personne).
+2013-11;Franche Comté;5475;5390;85;640;88.1;
+2013-11;Pays de la Loire;9330;9200;130;904;90.2;Mauvaise adhérence sur le rail (chute des feuilles mortes), nombreuses limitations de vitesse pour travaux (Nantes-Angers, Angers-Le Mans, Nantes-St Gilles, Le Mans-Château du Loir).
+2013-11;Lorraine;;;;;;Le Président de la Région Lorraine s'est opposé, par courrier du 10 juillet 2013, à ce que SNCF transmette à l'AQST les données relatives aux trains TER lorrains en retard ou annulés, au motif qu'il n'a pas ''de visibilité sur les capacités des régions à poursuivre leurs missions d'autorité organisatrice des transports régionaux''.
+2013-12;Aquitaine;8802;8647;155;985;88.6;Intempéries (patinages, enrayages, givres et brouillard), défaillances du matériels (pannes et indisponibilités) et les ralentissements sont les causes principales des retards en décembre.
+2013-12;Picardie;10760;10685;75;1075;89.9;Intempéries (tempête DIRK) et mise en place d'une limitation de vitesse sur 32km entre Beauvais et Grandvilliers.
+2014-01;Nord Pas de Calais;19770;19507;263;1417;92.7;Nombreux coups de vent.
+2014-01;Limousin;4301;4240;61;299;92.9;
+2014-01;Haute Normandie;6090;6002;88;333;94.5;Agression d'un agent de conduite, tôle d'un particulier sur les caténaires, détresse d'un train de travaux, accident de personne à Maromme.
+2014-01;Champagne Ardenne;6388;6301;87;207;96.7;Droit de retrait exercé par de nombreux agents du service commercial train suite à l'agression d'un de leurs collègues en gare de Reims le 25, restrictions de circulation entre Charleville et Hirson suite à un affaissement de terrain (fontis) près de Charleville du 30 janvier à début février.
+2014-01;Basse Normandie;3318;3303;15;128;96.1;Meilleure résultats qu'en janvier 2013.
+2014-01;Aquitaine;9681;9472;209;790;91.7;Causes externe, intempéries à partir du 20 janvier, obstacles sur les voies.
+2014-01;Alsace;19598;19405;193;727;96.3;Météo particulièrement clémente pour un mois de janvier.
+2014-02;Pays de la Loire;9285;9175;110;709;92.3;Retards dûs pour 20% par les travaux d'amélioration du réseau ferroviaire de la région et pour 80% par les intempéries répétitives.
+2014-02;Midi Pyrénées;8022;7877;145;787;90.0;Dérangements à un passage à niveau (155 circulations et 1,96 point d'irrégularité), agent de conduite (144 circulations et 1,82 point), intempéries et malveillance (134 circulations et 1,69 point). défaillance d'engin moteur (107 circulations, 1,35 point).
+2014-02;Limousin;3816;3765;51;199;94.7;
+2014-02;Haute Normandie;5560;5491;69;296;94.6;Recrudescence de causes INFRA (rupture caténaires, dérangement de PN …)
+2014-02;Champagne Ardenne;5675;5633;42;216;96.2;Pas de faits majeurs ce mois ci. La circulation des trains champardennais a cependant été perturbée certains jours par des actes de malveillance, des intrusions de tiers dans les emprises ferroviaires, des panne de trains, des intempéries ou des accidents.
+2014-02;Bretagne;8025;7872;153;561;92.9;Régularité impactée en février par les conséquences de la tempête Ulla (2,2 points d'irrégularité) et les travaux entre Rennes et Redon (1,7 point). 90 trains supprimés suite aux intempéries.
+2014-03;Bretagne;8383;8337;46;209;97.5;Meilleur résultat depuis juillet 2010.
+2014-03;Nord Pas de Calais;18988;18601;387;1186;93.6;Difficulté de couverture traction du plan de transport.
+2014-03;Poitou Charentes;3473;3451;22;206;94.0;
+2014-04;Nord Pas de Calais;18991;17957;129;799;95.6;
+2014-04;Auvergne;4559;4497;62;291;93.5;Problèmes matériel, dérangements d'installations, événements extérieurs.
+2014-04;Champagne Ardenne;6069;6035;34;243;96.0;Ligne Reims-Charleville : à partir du 24/03 et jusqu'au 25/04, les trains en journée sont remplacés par des autocars suite à des travaux de modernisation des voies et ouvrages d'art.
+2014-04;Haute Normandie;5789;5745;44;263;95.4;
+2014-04;Limousin;4089;4057;32;156;96.2;
+2014-05;Basse Normandie;3104;3072;32;161;94.8;Ce mois de mai présente les résultats les plus médiocres depuis le début d'année. On compte notamment un accident de personne le 1er et la grève du 22, mais c'est une limitation temporaire de vitesse entre Coutances et St Lô pour défaut de géométrie de la voie qui entraîne le plus de retards.
+2014-05;Languedoc Roussillon;4493;4222;271;253;94.0;Le meilleur mois depuis que la régularité est mesurée et analysée en Languedoc Roussillon.
+2014-05;Picardie;10811;10763;48;605;94.4;
+2014-06;Aquitaine;6195;5781;414;630;89.1;Mouvement social du 11 au 24, travaux au nord de Bordeaux (ralentissements et correspondances), affluences voyageurs suite au festival Garorock à Marmande et orage le 29 avec la foudre sur le bâtiment de la gare de Bordeaux.
+2014-06;Centre;7752;6641;1111;577;91.3;Grève nationale du 11 au 24 juin.
+2014-06;Franche Comté;4340;4283;57;486;88.7;
+2014-06;Provence Alpes Côte d'Azur;9834;9430;404;1630;82.7;La reprise du mouvement social occasionne des problèmes de disponibilité de matériel. Le mois est marqué par des intempéries occasionnat des suppressions.
+2014-07;Alsace;16628;16370;258;549;96.6;
+2014-07;Bretagne;7520;7485;35;298;96.0;Deuxième des meilleurs résultats depuis le début de l'année.
+2014-07;Champagne Ardenne;5791;5746;45;287;95.0;Pas de faits majeurs ce mois-ci. La régularité des trains a été impactée par des défaillances du matériel, des dérangements d'installations (signaux, passages à niveau) et des aléas externes (individus sur les voies, divagation de bestiaux, actes de malveillance, conditions météo, etc...).
+2014-07;Franche Comté;5685;5629;56;465;91.7;
+2014-07;Lorraine;;;;;;Le Président de la Région Lorraine s'est opposé, par courrier du 10 juillet 2013, à ce que SNCF transmette à l'AQST les données relatives aux trains TER lorrains en retard ou annulés, au motif qu'il n'a pas ''de visibilité sur les capacités des régions à poursuivre leurs missions d'autorité organisatrice des transports régionaux''.
+2014-07;Pays de la Loire;10970;10754;216;816;92.4;
+2014-07;Poitou Charentes;3655;3622;33;324;91.1;
+2014-08;Alsace;15834;15667;167;393;97.5;
+2014-08;Aquitaine;8424;8246;178;990;88.0;Des restrictions de circulation pour l’enquête et les vérifications des installations suite à l’accident survenu le 17 juillet 2014 à Denguin ont fortement perturbé la ponctualité des TER dans la région de Pau.
+2014-08;Languedoc Roussillon;4955;4874;81;598;87.7;
+2014-08;Limousin;3991;3964;27;202;94.9;
+2014-08;Poitou Charentes;3541;3525;16;242;93.1;
+2014-08;Provence Alpes Côte d'Azur;14404;13842;562;2228;83.9;
+2014-09;Franche Comté;5681;5662;19;466;91.8;
+2014-09;Languedoc Roussillon;4715;4524;191;691;84.7;
+2014-09;Limousin;4116;4079;37;284;93.0;
+2014-09;Midi Pyrénées;8709;8590;119;670;92.2;Dérangements aux passages à niveau et installations, divagations d'animaux, intempéries et problèmes dans la prise en charge en gare.
+2014-09;Pays de la Loire;11013;10822;191;695;93.6;
+2014-10;Alsace;20186;19950;236;905;95.5;Deux droits d'alerte suite à l'agression de contrôleurs.
+2014-10;Auvergne;6150;6026;124;372;93.8;Problèmes matériel, conséquences travaux, événements extérieurs.
+2014-10;Haute Normandie;6124;6069;55;454;92.5;
+2014-10;Midi Pyrénées;8541;8340;201;828;90.1;Divagation d'animaux et intempéries (186 circulations), dérangements d'installations et de passages à niveau (131 circulations), défaillance matériel (102 circulations), agent de conduite (82 circulations).
+2014-10;Rhône Alpes;30531;30064;467;3580;88.1;Un mois difficile marqué par les événements externes, des problèmes d'infrastructure et les autres transporteurs.
+2014-11;Bretagne;7146;7087;59;517;92.7;Un mois de novembre fortement perturbé par les travaux sur la ligne Rennes-Messac.
+2014-11;Midi Pyrénées;7946;7709;237;975;87.4;
+2014-11;Picardie;9879;9807;72;953;90.3;Intempéries et plusieurs limitations temporaires de vitesse.
+2014-12;Basse Normandie;3126;3079;47;232;92.5;Les mauvais résultats du mois sont dûs à de nombreuses difficultés de gestion du parc matériel (beaucoup d'absences matériel), à des dérangements d'installations ferroviaire et à des espacements et correspondances avec des Intercités. De plus, le début de mois a été marqué par le mouvement social national des 5 et 6 décembre.
+2014-12;Bretagne;8116;8034;82;580;92.8;Un mois de décembre fortement perturbé par les travaux sur la ligne Rennes-Messac
+2014-12;Midi Pyrénées;7731;7270;461;916;87.4;
+2014-12;Provence Alpes Côte d'Azur;13478;12367;1111;2691;78.2;Problèmes de fiabilité et de de disponibilité du parc matériel, remise en marche difficile du plan de transport après les grèves des conducteurs de trains et des contrôleurs, incidents sur les infrastructures et incidents externes.
+2015-01;Aquitaine;8944;8636;308;1014;88.3;Malgré les travaux de modernisation en gare de Bordeaux et des évènements externe (givre), la régularité est en légère progression.
+2015-01;Auvergne;6155;6039;116;320;94.7;Conditions météo, dérangements d'installations et problèmes matériel.
+2015-01;Languedoc Roussillon;4737;4665;72;429;90.8;
+2015-01;Provence Alpes Côte d'Azur;15384;14541;843;2717;81.3;
+2013-01;Basse Normandie;3331;3297;34;311;90.6;Grand froid et épisode neigeux les semaines 3 et 4. Tension au niveau du personnel agent de conduite. Difficultés de circulation, conséquence de la mauvaise régularité des trains Intercités.
+2013-01;Bourgogne;8400;8332;68;625;92.5;Un mois de janvier qui surpasse les six exercices précédents en termes d'annulation et de ponctualité des trains.
+2013-01;Languedoc Roussillon;5024;4897;127;377;92.3;Chute de neige sur le littoral.
+2013-01;Picardie;11754;11673;81;1245;89.3;Fortes chutes de neige ayant entrainé des perturbations exceptionnelles.
+2013-01;Poitou Charentes;3269;3134;135;205;93.5;Mouvements sociaux des agents du service commercial trains le ASCT le 1er et le 8 janvier. Fortes chutes de neige ayant entrainé des perturbations exceptionnelles.
+2013-02;Alsace;18263;18097;166;771;95.7;Intempéries.
+2013-02;Aquitaine;7926;7832;94;912;88.4;Inondations au sud de Dax du 11 au 13 février.
+2013-02;Champagne Ardenne;5801;5763;38;233;96.0;
+2013-02;Languedoc Roussillon;4614;4402;212;387;91.2;Arrêt de travail spontané suite à l'agression d'un agent du service commercial train.
+2013-02;Provence Alpes Côte d'Azur;12581;12142;439;1761;85.5;
+2013-03;Franche Comté;5676;5628;48;360;93.6;
+2013-04;Basse Normandie;3221;3137;84;190;93.9;Plusieurs zones de travaux. Dérangements de d'installations dues aux variations de températures.
+2013-04;Franche Comté;5655;5638;17;327;94.2;
+2013-04;Limousin;4030;3834;196;196;94.9;
+2013-04;Lorraine;;;;;;Le Président de la Région Lorraine s'est opposé, par courrier du 10 juillet 2013, à ce que SNCF transmette à l'AQST les données relatives aux trains TER lorrains en retard ou annulés, au motif qu'il n'a pas ''de visibilité sur les capacités des régions à poursuivre leurs missions d'autorité organisatrice des transports régionaux''.
+2013-04;Nord Pas de Calais;18841;18585;256;1294;93.0;Grève nationale le 13.
+2013-04;Picardie;10870;10819;51;657;93.9;
+2013-04;Provence Alpes Côte d'Azur;13437;12168;1269;1660;86.4;Un éboulement dans un tunnel suite à des intempéries entraîne la suppression des trains sur une partie de leur parcours.
+2013-05;Aquitaine;8722;8656;66;833;90.4;Deux actes de malveillance majeurs et cinq accidents de personnes.
+2013-05;Auvergne;4996;4965;31;393;92.1;Intempéries.
+2013-05;Bourgogne;7507;7429;78;806;89.2;Résultats ponctualité marqués par des limitations temporaires de vitesse. des inondations de voies suite aux pluies diluviennes et aléas divers.
+2013-05;Languedoc Roussillon;4909;4666;243;335;92.8;Intempéries et mouvement social.
+2013-05;Pays de la Loire;9823;9420;403;658;93.0;73% des annulations sont liées à des mouvements sociaux.
+2013-05;Provence Alpes Côte d'Azur;13312;12977;335;2244;82.7;
+2013-05;Lorraine;;;;;;Le Président de la Région Lorraine s'est opposé, par courrier du 10 juillet 2013, à ce que SNCF transmette à l'AQST les données relatives aux trains TER lorrains en retard ou annulés, au motif qu'il n'a pas ''de visibilité sur les capacités des régions à poursuivre leurs missions d'autorité organisatrice des transports régionaux''.
+2013-06;Alsace;17810;17668;142;784;95.6;Mouvement social et travaux à Vendenheim pour la deuxième phase du TGV Est.
+2013-06;Aquitaine;8152;8052;100;892;88.9;Inondations sur le piémont pyrénéen.
+2013-06;Bretagne;7901;7837;64;280;96.4;
+2013-06;Provence Alpes Côte d'Azur;12916;11957;959;2160;81.9;
+2013-06;Lorraine;;;;;;Le Président de la Région Lorraine s'est opposé, par courrier du 10 juillet 2013, à ce que SNCF transmette à l'AQST les données relatives aux trains TER lorrains en retard ou annulés, au motif qu'il n'a pas ''de visibilité sur les capacités des régions à poursuivre leurs missions d'autorité organisatrice des transports régionaux''.
+2013-07;Franche Comté;5169;5149;20;513;90.0;
+2013-07;Languedoc Roussillon;5446;5317;129;711;86.6;Malveillance et causes externes.
+2013-07;Lorraine;;;;;;Le Président de la Région Lorraine s'est opposé, par courrier du 10 juillet 2013, à ce que SNCF transmette à l'AQST les données relatives aux trains TER lorrains en retard ou annulés, au motif qu'il n'a pas ''de visibilité sur les capacités des régions à poursuivre leurs missions d'autorité organisatrice des transports régionaux''.
+2013-08;Basse Normandie;3721;3691;30;226;93.9;Nombreuses difficultés matériels et des difficultés de circulation.
+2013-08;Centre;9132;9047;85;519;94.3;
+2013-08;Nord Pas de Calais;15120;14752;368;832;94.4;Intempéries, orages et affluence liée à la braderie de Lille.
+2013-09;Bourgogne;7489;7227;262;693;90.4;Mouvement social interprofessionnel national le 10 et droit de retrait suite à une agression de contrôleur le 21 ayant entraîné d'importantes annulations de trains.
+2013-09;Centre;9572;9188;384;632;93.1;Grève nationale.
+2013-09;Nord Pas de Calais;18746;18215;531;1358;92.5;Incendie des postes d'aiguillage de Lourches et de Jeumont, vol de câble en gare de Seclin.
+2013-10;Basse Normandie;3397;3278;119;262;92.0;Mouvement social du 9, début des patinages et intempéries (arbres et branches sur les voies).
+2013-10;Centre;9857;9640;217;1003;89.6;Grève, intempéries et travaux.
+2013-10;Limousin;4094;3833;261;370;90.3;
+2013-10;Midi Pyrénées;7859;7757;102;654;91.6;Causes externes, dérangements des organisations syndicales.
+2013-11;Bourgogne;7344;7270;74;964;86.7;Novembre devient le mois le plus irrégulier de l'année. Nombre croissant d'incidents en ligne conjugués à des intempéries très marquées sur l'ouest Bourgogne ont participé à des résultats contrastés.
+2013-11;Champagne Ardenne;6045;5488;557;521;90.5;Nombreux patinages et enrayages de trains suite à la chute des feuilles mortes sur les rails, problèmes de disponibilité du matériel nécessitant la mise en œuvre de plans de transports adaptés, droit de retrait exercé du 6 au 8 par des contrôleurs champardennais suite à l'agression de l'un d'entre eux dans le train 839112 à Meaux le 6.
+2013-11;Haute Normandie;5472;5293;179;426;92.0;Camion en panne à un passage à niveau, accident de personne, agression d'un agent du service commercial train. dérangement d'installations à la bifurcation de Darnétal, déraillement à Mantes.
+2013-11;Nord Pas de Calais;17208;16959;249;2074;87.8;Alerte à la bombe le 4 et incendie aux abords des voies le 27 en gare de Lille Flandres.
+2013-12;Alsace;17968;17780;188;738;95.8;Temps humide, nombreux incidents matériel et d'infrastructure.
+2013-12;Auvergne;5092;5001;91;656;86.9;Conditions météos et intempéries.
+2013-12;Bourgogne;7892;7605;287;749;90.2;Décembre 2013 est proche du résultat enregistré un an plus tôt. Le mois est marqué par un mouvement social important le 12 décembre traduisant un taux d'annulation important.
+2013-12;Bretagne;8576;8246;330;613;92.6;Les travaux impactent de 1,2 point la régularité de ce mois. A signaler également : 1,2 point d'irrégularité pour cause d'enrayage et 1 point suite à la tempête DIRK, 1 point pour avarie matériel et 0.5 pour causes externes (obstacles. accident de personne). Sur 330 trains supprimés, 207 suite à une grève nationale le 10 décembre, 59 suite à la tempête DIRK et 22 pour avaries matériel.
+2013-12;Centre;9737;9010;727;898;90.0;Grève, problèmes matériel, intempéries, givre à la caténaire.
+2013-12;Franche Comté;5517;5444;73;541;90.1;
+2013-12;Limousin;4118;3519;599;434;87.7;
+2013-12;Provence Alpes Côte d'Azur;14882;10858;4024;2016;81.4;Prolongation de la fermeture de la ligne Aspres Livron. Mouvements sociaux.
+2014-01;Provence Alpes Côte d'Azur;14703;13336;1367;2652;80.1;
+2014-01;Picardie;11843;11756;87;992;91.6;La mise en place d'une limitation de vitesse à 60 km/h sur une distance de 32 km sur l'axe Beauvais-Le Tréport a impacté la régularité d'environ 2%.
+2014-01;Franche Comté;5867;5825;42;382;93.4;
+2014-01;Auvergne;6364;6305;59;581;90.8;Conditions météo, dérangements d'installations et limitation de vitesse.
+2014-02;Aquitaine;8384;8223;171;819;90.0;Les intempéries depuis le 21 janvier représentent l’impact fort. Deux accidents routiers (Pauillac et St Emilion), des intrusions d’animaux sur les voies et un impact de foudre sont les causes des difficultés rencontrées par le matériel pour la tenue du plan de transport.
+2014-03;Languedoc Roussillon;4465;4396;69;355;91.9;Toujours sur la dynamique de ce début d'année, un bon mois de mars (peu de causes externes)
+2014-03;Pays de la Loire;10291;10058;233;629;93.7;
+2014-03;Picardie;11171;11079;92;671;93.9;Plusieurs accidents de personne lourds de conséquences pour ce mois de mars, ainsi qu'un défaut de géométrie de la voie sur Paris-Nord les 20 et 21 Mars.
+2014-03;Provence Alpes Côte d'Azur;13338;12790;548;1903;85.1;Fermeture de la ligne Nice Breil et coupure de la ligne Grenoble Briançon au niveau de Clelles Mens consécutives à des éboulements.
+2014-03;Lorraine;;;;;;Le Président de la Région Lorraine s'est opposé, par courrier du 10 juillet 2013, à ce que SNCF transmette à l'AQST les données relatives aux trains TER lorrains en retard ou annulés, au motif qu'il n'a pas ''de visibilité sur les capacités des régions à poursuivre leurs missions d'autorité organisatrice des transports régionaux''.
+2014-04;Franche Comté;5520;5494;26;461;91.6;
+2014-04;Picardie;11129;11059;70;729;93.4;
+2014-05;Limousin;4063;4012;51;358;91.1;Intempéries.
+2014-06;Basse Normandie;2466;2287;179;178;92.2;Nombreuses difficultés matériel ainsi que dérangements d'installation. Plusieurs évènements externes comme l'accident de personne du train 3338 en gare de Caen le 4 juin et l'affluence lors des commémorations du débarquement.
+2014-06;Bourgogne;6027;5653;374;643;88.6;Des résultats particulièrement mauvais, handicapés par le mouvement social sur la réforme ferroviaire.
+2014-06;Bretagne;7470;7253;217;387;94.7;Grève nationale. 1,2 point d'irrégularité suite à acte de malveillance et 0,75 point cause travaux.
+2014-06;Haute Normandie;4269;3978;291;217;94.5;
+2014-06;Midi Pyrénées;6320;6119;201;612;90.0;Malveillance et intempéries (151 circulations, dérangements sur passages à niveau et installations (148 circulations), prise en charge client (72 circulations), agent de conduite (68 circulations).
+2014-06;Pays de la Loire;7734;7525;209;554;92.6;Le mouvement social du mois a entraîné la déprogrammation de nombreux trains.
+2014-06;Picardie;7840;7719;121;780;89.9;Mouvement social national du 11 au 24 juin.
+2014-06;Poitou Charentes;2700;2527;173;190;92.5;Mouvement social national du 11 au 24 juin.
+2014-07;Auvergne;5262;5220;42;288;94.5;
+2014-07;Basse Normandie;3731;3704;27;173;95.3;Un mois de juillet à l'objectif avec tout de même des difficultés de production la semaine 29 (des correspondances avec des Intercités en retards, des dérangements d'installation et des difficultés matériels).
+2014-07;Centre;9294;9177;117;791;91.4;Fortes chaleurs, limitations temporaires de vitesse et nombreux dérangements d'installations.
+2014-07;Provence Alpes Côte d'Azur;14923;14388;535;2373;83.5;
+2014-08;Champagne Ardenne;5532;5499;33;214;96.1;
+2014-08;Midi Pyrénées;8477;8227;250;637;92.3;Malveillance et intempéries, dérangements sur passage à niveau et installations, difficulté de prise en charge en gare, matériel.
+2014-08;Pays de la Loire;10808;10698;110;549;94.9;
+2014-09;Bourgogne;7977;7946;31;666;91.6;Les résultats sont corrects et homogènes sur  une grande partie du territoire. A noter que les zones périurbaines de Dijon ont été perturbés par les limitations temporaires de vitesse.
+2014-09;Lorraine;;;;;;Le Président de la Région Lorraine s'est opposé, par courrier du 10 juillet 2013, à ce que SNCF transmette à l'AQST les données relatives aux trains TER lorrains en retard ou annulés, au motif qu'il n'a pas ''de visibilité sur les capacités des régions à poursuivre leurs missions d'autorité organisatrice des transports régionaux''.
+2014-10;Champagne Ardenne;6008;5952;56;299;95.0;Le 7 octobre et suivants : fontis aux abords de la voie 1 entre Nogent sur Seine et Romilly sur Seine ayant entrainé des restrictions de circulation. Le 21 octobre : forts coups de vent avec arbres sur la voie et la caténaire.
+2014-10;Nord Pas de Calais;20121;19812;309;1707;91.4;
+2014-11;Franche Comté;5456;5368;88;457;91.5;
+2014-11;Limousin;3923;3875;48;390;89.9;
+2014-11;Pays de la Loire;10403;10273;130;746;92.7;
+2014-12;Aquitaine;9074;8794;280;1364;84.5;Des travaux de modernisation en gare de Bordeaux et ses alentours ont réduit la capacité de celle-ci, occasionnant de nombreux retards.
+2014-12;Centre;9185;9074;111;813;91.0;Grève national le 5 décembre, nombreux dérangements d'installation et problèmes d'adhérences en début de mois.
+2014-12;Haute Normandie;5866;5759;107;341;94.1;
+2014-12;Limousin;4166;4096;70;331;91.9;
+2014-12;Nord Pas de Calais;18923;18349;574;1647;91.0;
+2014-12;Pays de la Loire;11412;11169;243;1010;91.0;
+2014-12;Poitou Charentes;3562;3489;73;358;89.7;
+2015-01;Basse Normandie;3275;3245;30;162;95.0;Beaucoup de difficultés avec le parc matériel et de nombreux obstacles sur la voie (innondation du souterrain de Frénouville avec risque de traversée de voie). Nous avons aussi eu beaucoup de suppressions pour des absences de conducteur.
+2015-01;Centre;9084;8999;85;637;92.9;
+2015-01;Lorraine;14050;13903;147;450;96.8;Le Président de la Région Lorraine s'est opposé, par courrier du 10 juillet 2013, à ce que SNCF transmette à l'AQST les données relatives aux trains TER lorrains en retard ou annulés, au motif qu'il n'a pas ''de visibilité sur les capacités des régions à poursuivre leurs missions d'autorité organisatrice des transports régionaux''.
+2015-03;Nord Pas de Calais;19080;18488;592;1552;91.6;
+2015-03;Pays de la Loire;11293;11197;96;766;93.2;
+2015-01;Poitou Charentes;3550;3495;55;328;90.6;
+2015-02;Aquitaine;8037;7823;214;825;89.5;
+2015-02;Auvergne;5418;5294;124;340;93.6;
+2015-02;Languedoc Roussillon;4331;4237;94;461;89.1;
+2015-02;Lorraine;12387;12217;170;543;95.6;
+2015-03;Haute Normandie;5956;5862;94;293;95.0;
+2015-03;Limousin;4153;4130;23;285;93.1;
+2015-03;Poitou Charentes;3449;3426;23;272;92.1;
+2015-03;Provence Alpes Côte d'Azur;15324;14907;417;2413;83.8;
+2015-02;Bourgogne;7180;7124;56;483;93.2;
+2015-02;Champagne Ardenne;5633;5572;61;226;95.9;
+2015-03;Bourgogne;7864;7800;64;533;93.2;
+2015-03;Picardie;11447;11087;360;1027;90.7;
+2015-02;Bretagne;7892;7839;53;464;94.1;
+2015-02;Centre;8301;8178;123;655;92.0;
+2015-02;Franche Comté;5086;4979;107;391;92.1;
+2015-02;Pays de la Loire;10316;10191;125;846;91.7;
+2015-02;Picardie;10286;10125;161;1058;89.6;
+2015-02;Provence Alpes Côte d'Azur;14362;13783;579;2411;82.5;
+2015-02;Rhône Alpes;27776;26753;1023;3598;86.6;
+2015-03;Aquitaine;8388;8114;274;679;91.6;
+2015-03;Auvergne;5652;5602;50;224;96.0;
+2015-03;Basse Normandie;3265;3244;21;134;95.9;
+2015-03;Champagne Ardenne;5948;5891;57;254;95.7;
+2015-03;Lorraine;13739;13539;200;529;96.1;
+2015-01;Midi Pyrénées;8726;8528;198;725;91.5;
+2015-01;Pays de la Loire;11178;10980;198;941;91.4;
+2015-01;Picardie;10847;10698;149;1039;90.3;Début d'année difficile avec de nombreux actes de malveillance, principalement des colis suspects.
+2015-02;Limousin;3795;3755;40;229;93.9;
+2015-02;Midi Pyrénées;8017;7771;246;710;90.9;
+2015-02;Nord Pas de Calais;17200;16779;421;1262;92.5;
+2015-03;Alsace;19700;19530;170;704;96.4;
+2015-03;Bretagne;8039;7972;67;390;95.1;
+2015-03;Centre;8996;8878;118;548;93.8;
+2015-03;Franche Comté;5672;5636;36;310;94.5;
+2015-03;Languedoc Roussillon;4382;4293;89;459;89.3;
+2015-03;Midi Pyrénées;8706;8524;182;559;93.4;
+2015-03;Rhône Alpes;29488;29096;392;2773;90.5;

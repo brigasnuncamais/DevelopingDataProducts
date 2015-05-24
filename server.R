@@ -20,6 +20,7 @@ colnames(trainData)=c("Date","Region","NumberOfScheduledTrains","NumberOfTrainsT
 dataset <- trainData
 dataset <- subset(dataset, select=c(-Comments))
 dataset$Year <-  as.factor(as.numeric(format(as.Date(paste0(dataset[,1],"-01"),"%Y-%m-%d"), "%Y")))
+dataset$Region <-  as.factor(dataset[,2])
 
 shinyServer(
   function(input, output) {
@@ -27,8 +28,10 @@ shinyServer(
     #Option to choose sample size
     dataset <- reactive(function() {
       mutate(trainData[sample(nrow(trainData), input$sampleSize),-8],
-      Year=as.factor(as.numeric(
-        format(as.Date(paste0(trainData[sample(nrow(trainData), input$sampleSize),1],"-01"),"%Y-%m-%d"), "%Y"))))
+        Year=as.factor(as.numeric(
+          format(as.Date(paste0(trainData[sample(nrow(trainData), input$sampleSize),1],"-01"),"%Y-%m-%d"), "%Y"))),
+        Region=as.factor(trainData[sample(nrow(trainData), input$sampleSize),2])
+      )
     })
     
     #Option to download the Dataset

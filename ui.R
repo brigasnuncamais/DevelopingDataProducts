@@ -21,6 +21,7 @@ dataset <- trainData
 dataset <- subset(dataset, select=c(-Comments))
 dataset$Year <-  as.numeric(format(as.Date(paste0(dataset[,1],"-01"),"%Y-%m-%d"), "%Y"))
 dataset$Year <-  as.factor(as.numeric(format(as.Date(paste0(dataset[,1],"-01"),"%Y-%m-%d"), "%Y")))
+dataset$Region <-  as.factor(dataset[,2])
 
 shinyUI(
   fluidPage(
@@ -28,7 +29,7 @@ shinyUI(
 #   titlePanel("French TER (regional train) monthly regularity"),
   sidebarLayout(
     sidebarPanel(
-      h3('Tweek the Plot'),
+      h3('Application parameters'),
       sliderInput('sampleSize', 'Choose Sample Size', min=1, max=nrow(dataset),
                   value=min(500, nrow(dataset)), step=100, round=0),
 #       selectInput('x', 'X', names(dataset[,c(1:2,8)]), selected = names(dataset[,c(1:2,8)])[1]),
@@ -63,8 +64,9 @@ shinyUI(
       p('In agreement with the Regions which are the transport authorities for TER, trains deleted before 16h the day before its circulation will not be counted.'),
       p('However, if this announcement could not be made on time, the train will still count as a deleted train, may it be total or partial (the train has completed one part of its course).'),
       p("The open data site of the french railways, SNCF, with its various datasets and applications to explore them, can be reached at"),
-      a("http://data.sncf.com/"),
-      #img(src ="http://www.sncf.com/theme/images/logo-sncf.png", height = 400, width = 400),
+      img(src ="http://www.sncf.com/theme/images/logo-sncf.png",alt="SNCF Open Data"),
+      tags$br(),
+      a("SNCF Open Data",href="http://data.sncf.com/",target="_blank"),
       h4('Starting material about this Web App'),
       p('On the side panel you can change the variables that are injected to the plot (from ggplot2 library).'),
       p('You can change which variable go the the X-axis, Y-axis, color by variable, and include jitter, smooth, and row/column facets.'),
